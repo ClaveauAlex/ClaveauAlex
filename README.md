@@ -1,3 +1,5 @@
+# 👋🏼 Hey !!
+
 ☀️ De jour, je travaille en tant que développeur Freelance Frontend.
 
 🌙 De nuit, j'aime prendre du temps pour développer de nouvelle idées mais aussi pour lire ou même jouer.
