@@ -7,7 +7,7 @@
 🛠Mes récents projets:
 - [Portfolio Professionnelle](https://github.com/ClaveauAlex/nextjs-portfolio), un site professionnelle pour me faire connaître et ainsi développer mon activité 🚀
 
-📫 Tu peux me joindre:
+📫 Tu peux me contacter:
 - Sur Instragram 📸 à [alexandre_claveau.me](https://www.instagram.com/alexandre_claveau.me/)
 - Par mail 📧 à [alexandre.claveau.pro@gmail.com](alexandre.claveau.pro@gmail.com)
 
