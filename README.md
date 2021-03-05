@@ -13,5 +13,7 @@
 - Sur Instragram 📸  à [alexandre_claveau.me](https://www.instagram.com/alexandre_claveau.me/)
 - Par mail 📧  à [alexandre.claveau.pro@gmail.com](alexandre.claveau.pro@gmail.com)
 
+Petite réflexion à moi même, vous ne trouvez pas qu'on sous-estime beaucoup les écureuils 🐿 ? Allez je vous laisse découvrir mes projets 🙃
+
 
 Have Fun ! ✌🏼
