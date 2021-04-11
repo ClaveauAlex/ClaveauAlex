@@ -1,6 +1,6 @@
 # 👋🏼 Hey !!
 
-☀️ De jour, je travaille en tant que Développeur Freelance Frontend.
+☀️ De jour, je travaille en tant que Développeur Frontend chez DIATEAM.
 
 🌙 De nuit, j'aime prendre du temps pour développer de nouvelle idées mais aussi pour lire ou même jouer avec des amis 🙃.
 
@@ -10,7 +10,6 @@
 - [Burger Builder](https://github.com/ClaveauAlex/burger-builder), une application de commande de burger avec customisation 🍔
 
 📫 Tu peux me contacter:
-- Sur Instragram 📸  à [alexandre_claveau.me](https://www.instagram.com/alexandre_claveau.me/)
 - Par mail 📧  à [alexandre.claveau.pro@gmail.com](alexandre.claveau.pro@gmail.com)
 
 Petite réflexion à moi même, vous ne trouvez pas qu'on sous-estime beaucoup les écureuils 🐿 ? Allez je vous laisse découvrir mes projets 🙃
