@@ -9,7 +9,7 @@
 - [Crypto Tracker](https://github.com/ClaveauAlex/nextjs-crypto-api) 📈
 
 📫 You can contact me:
-- By mail 📧  @ [alexandre.claveau.pro@gmail.com](alexandre.claveau.pro@gmail.com)
+- By mail 📧 [alexandre.claveau.pro@gmail.com](alexandre.claveau.pro@gmail.com)
 
 I let you discover my projects 🙃
 
