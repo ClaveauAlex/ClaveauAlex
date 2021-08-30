@@ -1,18 +1,16 @@
 # 👋🏼 Hey !!
 
-☀️ De jour, je travaille en tant que Développeur Frontend chez DIATEAM.
+☀️ By day, I work as Frontend Developer at DIATEAM.
 
-🌙 De nuit, j'aime prendre du temps pour développer de nouvelle idées mais aussi pour lire ou même jouer avec des amis 🙃.
+🌙 By night, I like to take time to develop new ideas but also to read or play with friends 🙃.
 
-🛠Mes récents projets:
-- [Portfolio Professionnel](https://github.com/ClaveauAlex/portfolio), un site professionnel pour me faire connaître et ainsi développer mon activité 🚀
-- [Crypto Tracker](https://github.com/ClaveauAlex/nextjs-crypto-api), un trackeur afin de voir les variations de prix des cryptomonnaies 📈
+🛠My recent projects:
+- [Portfolio Professionnel](https://github.com/ClaveauAlex/portfolio) 🚀
+- [Crypto Tracker](https://github.com/ClaveauAlex/nextjs-crypto-api) 📈
 
-📫 Tu peux me contacter:
-- Par mail 📧  à [alexandre.claveau.pro@gmail.com](alexandre.claveau.pro@gmail.com)
+📫 You can contact me:
+- By mail 📧  à [alexandre.claveau.pro@gmail.com](alexandre.claveau.pro@gmail.com)
 
-Petite réflexion à moi même, vous ne trouvez pas qu'on sous-estime beaucoup les écureuils 🐿 ? 
-Allez je vous laisse découvrir mes projets 🙃
-
+I let you discover my projects 🙃
 
 Have Fun ! ✌🏼
