@@ -15,7 +15,7 @@
 - 🧗🏻‍♂️ Climbing
 - 🏄🏻‍ Surfing
 - 🏃 Running
-- >\_ Coding
+- 🧑‍💻 Coding
 - 🍺 Beers
 - 🧀 Cheese
 
