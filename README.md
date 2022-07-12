@@ -21,4 +21,6 @@
 
 ## Peaceful Place
 
+<a href="https://app.daily.dev/Aleixx"><img src="https://api.daily.dev/devcards/20ddcf53176e4d75adeb87c35f61e78b.png?r=zpq" width="400" alt="Ale[ks]'s Dev Card"/></a>
+
 Feel free to take your times !
