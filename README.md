@@ -1,4 +1,4 @@
-# Hey! My name is Alexandre, I'm a Frontend Developer at [DIATEAM](https://www.diateam.net/).
+# Hey! My name is Alexandre, I'm a Frontend Developer at [OVHCloud](https://www.ovhcloud.com/en/).
 
 ## I know and/or currently work with:
 
