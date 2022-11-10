@@ -13,11 +13,8 @@
 ## Some of my favorite things are:
 
 - 🧗🏻‍♂️ Climbing
-- 🏄🏻‍ Surfing
-- 🏃 Running
 - 🧑‍💻 Coding
 - 🍺 Beers
-- 🧀 Cheese
 
 ## Peaceful Place
 
