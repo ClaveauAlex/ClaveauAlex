@@ -7,6 +7,7 @@
 ![javascript](https://img.shields.io/badge/javascript-f7df1e?&style=for-the-badge&logo=javascript&logoColor=black)
 ![css](https://img.shields.io/badge/css-007acc?&style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/html-ec642a?&style=for-the-badge&logo=html5&logoColor=white)
+![rust](https://img.shields.io/badge/rust-fcc624?style=for-the-badge&logo=rust&logoColor=black)
 ![git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
 
